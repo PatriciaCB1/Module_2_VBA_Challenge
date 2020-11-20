@@ -37,3 +37,6 @@ When we were initially writing our code for Steve we wrote it piece by piece, fu
 
 ## Summary
 In summary through this process we were able to support Steve by creating code allowing him to quickly and easily run analysis on key green stocks by year through the use of a button/ input box.  Since we took the time to refactor the code it now runs much more quickly and efficiently, meaning Steve can analyze very large data sets with ease.  We also provided him with a clean, easy to read code that will allow him (or us) to more readily update the code in future should his needs change. 
+
+![VBA Challenge 2017](https://github.com/PatriciaCB1/Module_2_VBA_Challenge/blob/main/VBA_Challenge_2017.png)
+![VBA Challenge 2018](https://github.com/PatriciaCB1/Module_2_VBA_Challenge/blob/main/VBA_Challenge_2018.png)
