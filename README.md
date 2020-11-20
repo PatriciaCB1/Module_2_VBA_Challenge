@@ -35,8 +35,10 @@ In order to be successful, code must work - peforming its intended tasks and pro
 
 When we were initially writing our code for Steve we wrote it piece by piece, function by function.  We focussed on ensuring each individual task was performed correctly.  Once we had the entire code written we were able to see the bigger picture.  Rather than looking at the code as individual functions we were able to work our way through to arrange the code in more logical order, remove redundancies/ duplications and create further efficiences.  We utilized indecies rather than hard code, combined some of our loops, removed extranous page activiation, moved some of the initiation orders etc.  This enabled us to improve our run time significantly.  Run time was reduced from 0.515625 seconds to 0.078125 seconds.  This will allow for much faster analysis for larger datasets moving forward.  During refactoring I encountered a situation where I accidentally introduced a bug into my code when it had been working fine previously.  It took me 2 hours to remedy the situation.  Fortunately I had time to diagnose and correct this but had I been up against a tight deadline I would have had to skip the refactoring process or submit at a later time.
 
-## Summary
-In summary through this process we were able to support Steve by creating code allowing him to quickly and easily run analysis on key green stocks by year through the use of a button/ input box.  Since we took the time to refactor the code it now runs much more quickly and efficiently, meaning Steve can analyze very large data sets with ease.  We also provided him with a clean, easy to read code that will allow him (or us) to more readily update the code in future should his needs change. 
-
 ![VBA Challenge 2017](https://github.com/PatriciaCB1/Module_2_VBA_Challenge/blob/main/VBA_Challenge_2017.png)
 ![VBA Challenge 2018](https://github.com/PatriciaCB1/Module_2_VBA_Challenge/blob/main/VBA_Challenge_2018.png)
+
+## Summary
+In summary through this process we were able to support Steve by creating code allowing him to quickly and easily run analysis on key green stocks by year through the use of a button/ input box.  Since we took the time to refactor the code it now runs much more quickly and efficiently, meaning Steve can analyze very large data sets with ease.  We also provided him with a clean, easy to read code that will allow him (or us) to more readily update the code in future should his needs change. 
+![VBA Challenge Input Box](https://github.com/PatriciaCB1/Module_2_VBA_Challenge/blob/main/Stocks%20Analysis%20Input%20box%20%26%20buttons.png)
+
