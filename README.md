@@ -24,6 +24,7 @@ There were 3 key areas of focus:
  Interestingly enough, all of the stocks analyzed, with the exception of TERP, showed positive returns in 2017.  It is evident that something negatively inpacted green stocks overall across our selection in 2018. Given we are only looking at 2 years' worth of data it would be interesting to analyze additional previous years to understand the actual trends before providing Steve and his parents with a game plan for investment in the coming year.  It would be helpful to understand net gains and losses over a longer period.
  
  ![2018 Green Stock Analysis](https://github.com/PatriciaCB1/Module_2_VBA_Challenge/blob/main/2018%20Stocks%20Analysis.png)
+ ![2017 Green Stock Analysis](https://github.com/PatriciaCB1/Module_2_VBA_Challenge/blob/main/2017%20Stocks%20Analysis.png)
  
 ### Automation of Analysis
  By writing code and creating macros we have automated Steve's analysis of green stocks.  By using variables, arrays, for loops and conditionals we have written code that enables Steve run analysis incredibly quickly.  We tried, where possible, not to hard code in variables.  Creating dynamic variables that can adjust as new data points or even worksheets are added (for additional years) has been our focus.
